@@ -7,4 +7,6 @@ Download or Clone the repository.
 
 ### Pre-requisites:
 python 3
-python modules os, time, requests, csv, and json ( they are usually pre-installed with python 3 else you can install with this command ```pip install <module_name>```)
+python modules os, time, requests, csv, and json 
+they are usually pre-installed with python 3 else you can install with this command 
+```pip install <module_name>```
